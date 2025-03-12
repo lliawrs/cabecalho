@@ -1,6 +1,6 @@
 header{
-    background-color: var(--roxo);
-    display: flex;
+    background-color: #48D1CC;
+    display:inline;
     justify-content: space-around;
     padding: 2rem;
 }
