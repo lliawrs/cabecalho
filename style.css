@@ -1,20 +1,15 @@
-body {
-    font-size: 1rem;
-    font-family: 'Montserrat';
+body{
+    background-color: var(--fundo);
 }
 
-header {
-    background-color: #31dce2;
+header{
+    background-color: var(--roxo);
     display: flex;
+    justify-content: space-around;
+    padding: 2rem;
 }
 
-
-section {
-    padding-bottom: 5rem;
-}
-
-
-.nav-link {
-    color: #CB6D43;
-    font-weight: 600;
+header a{
+    color: var(--preto);
+    text-decoration: none;
 }
