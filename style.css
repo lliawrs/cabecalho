@@ -1,6 +1,6 @@
 header{
     background-color: #48D1CC;
-    display:inline;
+    display: flex;
     justify-content: space-around;
     padding: 2rem;
 }
