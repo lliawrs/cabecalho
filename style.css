@@ -1,15 +1,15 @@
 body{
-    background-color: var(--fundo);
+    background-color: violet;
 }
 
 header{
-    background-color: var(--roxo);
+    background-color: blue;
     display: flex;
     justify-content: space-around;
     padding: 2rem;
 }
 
 header a{
-    color: var(--preto);
+    color: green;
     text-decoration: none;
 }
