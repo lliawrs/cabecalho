@@ -1,6 +1,6 @@
 header{
-    background-color:#d5e2c3; 
+    background-color: var(--roxo);
     display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
+    justify-content: space-around;
+    padding: 2rem;
 }
