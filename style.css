@@ -1,8 +1,8 @@
 :root{
 --preto: #000000;
---marinho: #7b3d9e;
---amarelo-claro: #b6d8b9;
---roxo-claro:#d5bbf3;
+--marinho: #243642;
+--amarelo-claro: #E2F1E7;
+--roxo-claro:#629584;
 }
 header{
     display: flex;
