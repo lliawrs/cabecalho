@@ -10,11 +10,11 @@ header{
     background-color: var(--marinho);
     padding: 1rem;
     position: relative;
-    justify-content: center;
+    justify-content: flex;
 }
 .menu-disciplinas{
     width: 20%;
-    display: flexbox;
+    display: inline-block;
 }
 .botao-disciplinas{
     cursor: pointer;
