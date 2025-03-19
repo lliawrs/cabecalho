@@ -14,7 +14,7 @@ header{
 }
 .menu-disciplinas{
     width: 20%;
-    display: inline-block;
+    display: flexbox;
 }
 .botao-disciplinas{
     cursor: pointer;
