@@ -25,3 +25,6 @@ header{
     padding: 1.05rem 1.5rem;
     color: var(--roxo-claro);
 }
+#menu-toggle{
+    display: none;
+}
