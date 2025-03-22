@@ -57,5 +57,9 @@
     }
     .foto-materia{
         width: 35%;
-        align-content: center;
+    }
+    .fotos{
+        position: relative;
+        left: 50px;
+        top: 20px;
     }
