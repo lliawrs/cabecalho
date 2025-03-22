@@ -55,4 +55,7 @@
     #menu-toggle:checked + .botao-disciplinas{
         background-color: var(--preto);
     }
-    .
+    .foto-materia{
+        width: 20%;
+        align-content: center;
+    }
