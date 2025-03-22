@@ -64,5 +64,6 @@
         top: 20px;
     }
     .Atividades{
-        justify-content: right;
+        display: flexbox;
+        font-size: 10%;
     }
