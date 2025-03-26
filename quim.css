@@ -65,5 +65,5 @@
     }
     #Trabalhos {color:var(--roxo-claro)}
     .Atividades{
-        display: flex;
+        display: contents;
     }
