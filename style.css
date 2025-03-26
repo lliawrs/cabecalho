@@ -57,5 +57,5 @@ header{
 }
 #Trabalhos {color:var(--roxo-claro)}
 .Atividades{
-    display: contents;
+    display: flexbox;
 }
