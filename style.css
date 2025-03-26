@@ -56,3 +56,6 @@ header{
     background-color: var(--preto);
 }
 #Trabalhos {color:var(--roxo-claro)}
+.Atividades{
+    display: none;
+}
