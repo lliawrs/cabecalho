@@ -56,5 +56,5 @@ header{
     background-color: var(--preto);
 }
 .Atividades{
-    justify-content: right;
+   color: var(--marinho);
 }
