@@ -63,6 +63,7 @@
         left: 450px;
         top: 20px;
     }
+    #Trabalhos {color:var(--roxo-claro)}
     .Atividades{
-     text-align: right; 
+        display: flex;
     }
