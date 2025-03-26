@@ -55,6 +55,4 @@ header{
 #menu-toggle:checked + .botao-disciplinas{
     background-color: var(--preto);
 }
-.Atividades{
-   color: var(--roxo-claro);
-}
+#Trabalhos {color:var(--roxo-claro)}
