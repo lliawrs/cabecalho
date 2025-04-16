@@ -63,7 +63,20 @@
         left: 450px;
         top: 20px;
     }
-    #Trabalhos {color:var(--roxo-claro)}
-    .Atividades{
-        display: contents;
-    }
+    nav ul{
+        display: flex;
+        gap: 20px;
+        padding-right: 4px; 
+        color: #629584;
+      }
+      .container{
+        padding-left: 4px;
+        border: none ;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      nav a{
+        color: #E2F1E7;
+      }
