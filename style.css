@@ -55,7 +55,8 @@ header{
 #menu-toggle:checked + .botao-disciplinas{
     background-color: var(--preto);
 }
-#Trabalhos {color:var(--roxo-claro)}
-.Atividades{
+nav ul{
     display: flex;
-}
+    gap: 20px;
+    padding-right: 4px; 
+  }
