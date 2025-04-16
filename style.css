@@ -59,6 +59,7 @@ nav ul{
     display: flex;
     gap: 20px;
     padding-right: 4px; 
+    color: #629584;
   }
   .container{
     padding-left: 4px;
