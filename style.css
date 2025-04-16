@@ -69,7 +69,6 @@ nav ul{
     justify-content: space-between;
     align-items: center;
   }
-  #trabalhos{
-    text-decoration: none;
+  nav a{
     color: #E2F1E7;
   }
