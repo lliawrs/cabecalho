@@ -60,3 +60,11 @@ nav ul{
     gap: 20px;
     padding-right: 4px; 
   }
+  .container{
+    padding-left: 4px;
+    border: none ;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
