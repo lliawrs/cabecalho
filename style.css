@@ -56,7 +56,7 @@ header{
     background-color: var(--preto);
 }
 nav ul{
-    display: margin-left;
+    display: flex;
     gap: 20px;
     padding-right: 54px; 
   }
