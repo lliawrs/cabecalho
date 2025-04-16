@@ -59,7 +59,7 @@ nav ul{
     display: flex;
     gap: 20px;
     padding-right: 4px; 
-    text-decoration: none;
+    color: #629584;
   }
   .container{
     padding-left: 4px;
@@ -68,4 +68,8 @@ nav ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
+  }
+  #trabalhos{
+    text-decoration: none;
+    color: #E2F1E7;
   }
