@@ -76,6 +76,13 @@ nav ul{
             border-collapse: collapse;
             width: 50%;
         }
+         caption {
+            caption-side: top;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            background-color: #243642;
+        }
         th, td {
             border: 1px solid #333;
             padding: 8px;
