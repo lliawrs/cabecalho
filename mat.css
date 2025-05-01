@@ -81,5 +81,9 @@
         color: #E2F1E7;
       }
       body{
-      text-align: justify;
+      background-color: #E2F1E7;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
       }
