@@ -72,3 +72,17 @@ nav ul{
   nav a{
     color: #E2F1E7;
   }
+   .fotos{
+        position: relative;
+        left: 450px;
+        top: 20px;
+    }
+     body{
+      background-color: #E2F1E7;
+    color: #000000;
+    font-weight: 700;
+    font-style: normal;
+      }
+    footer{
+    background-color: #629584;
+    }
