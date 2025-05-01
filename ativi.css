@@ -73,7 +73,9 @@ nav ul{
     color: #E2F1E7;
   }
     table {
-            padding-top: 15px;
+             position: relative;
+        left: 450px;
+        top: 20px;
             border-collapse: collapse;
             width: 50%;
         }
