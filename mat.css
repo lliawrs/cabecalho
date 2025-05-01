@@ -90,3 +90,8 @@
           margin-top: 500px;
     background-color: #629584;
     }
+    .texto{
+    display: flex;
+    border: 3px solid  #000000;
+    border-radius: 30px;
+    }
