@@ -78,6 +78,7 @@ nav ul{
         top: 20px;
             border-collapse: collapse;
             width: 50%;
+            background-color: #629584;
         }
          caption {
             caption-side: top;
