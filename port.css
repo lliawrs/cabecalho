@@ -8,6 +8,7 @@
     --marinho: #243642;
     --azul-claro: #E2F1E7;
     --verde-claro:#629584;
+    --verde-médio:#32c2b9;
     }
     header{
         display: flex;
@@ -36,7 +37,7 @@
     .lista-vertical{
         display: none;
         position: absolute;
-        background-color: var(--verde-claro);
+        background-color: var(--verde-médio);
         box-shadow: 0 2px 5px var(--marinho);
         min-width: 190px;
         z-index: 1;
