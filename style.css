@@ -8,6 +8,7 @@
 --marinho: #243642;
 --azul-claro: #E2F1E7;
 --verde-claro:#629584;
+ --verde-médio:#c4e2ce;
 }
 header{
     display: flex;
@@ -25,7 +26,7 @@ header{
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(--azul-claro);
+    background-color: var(--verde-médio);
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--roxo-claro);
