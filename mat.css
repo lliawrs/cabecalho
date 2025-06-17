@@ -115,7 +115,7 @@ h1 {
     font-size: 4rem;
 }
 
-.biologia-container {
+.mat-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
