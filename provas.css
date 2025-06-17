@@ -1,3 +1,9 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 :root{
 --preto: #000000;
 --marinho: #243642;
