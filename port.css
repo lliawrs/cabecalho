@@ -26,7 +26,7 @@
         cursor: pointer;
         font-size: 2rem;
         background: none;
-        background-color: var(--azul-claro);
+        background-color: var(--verde-médio);
         border: none;
         padding: 1.05rem 1.5rem;
         color: var(--verde-claro);
@@ -37,7 +37,7 @@
     .lista-vertical{
         display: none;
         position: absolute;
-        background-color: var(--verde-médio);
+        background-color: var(--verde-claro);
         box-shadow: 0 2px 5px var(--marinho);
         min-width: 190px;
         z-index: 1;
