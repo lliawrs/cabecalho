@@ -45,6 +45,7 @@ header{
     font-size: 2rem;
     display: block;
     text-align: center;
+    text-decoration: none;
 }
 .lista-vertical a:hover{
     background-color: var(--amarelo-claro);
