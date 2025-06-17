@@ -61,6 +61,7 @@ nav ul{
     gap: 20px;
     padding-right: 4px; 
     color: #629584;
+    text-decoration: none;
   }
   .container{
     padding-left: 4px;
