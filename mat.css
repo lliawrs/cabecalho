@@ -93,10 +93,6 @@
     font-weight: 700;
     font-style: normal;
       }
-          footer{
-          margin-top: 350px;
-    background-color: #629584;
-    }
     .texto{
     margin-top: 5%;
     display: flex;
@@ -211,3 +207,7 @@ h1 {
     color: var(--marinho);
     margin-bottom: 5px;
 }
+    footer{
+          margin-top: 350px;
+    background-color: #629584;
+    }
