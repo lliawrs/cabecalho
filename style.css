@@ -11,56 +11,15 @@
     --verde-médio:#c4e2ce;
     }
     header{
-        display: flex;
+       display: flex;
         width: 100%;
-        background-color: var(--marinho);
+        background-color: var(--rosa-escuro);
         padding: 1rem;
         position: relative;
-        justify-content: flex;
+        justify-content: space-between;
+        gap: 20px 
     }
-    .menu-disciplinas{
-        width: 20%;
-        display: inline-block;
-    }
-    .botao-disciplinas{
-        cursor: pointer;
-        font-size: 2rem;
-        background: none;
-        background-color: var(--verde-médio);
-        border: none;
-        padding: 1.05rem 1.5rem;
-        color: var(--verde-claro);
-    }
-    #menu-toggle{
-        display: none;
-    }
-    .lista-vertical{
-        display: none;
-        position: absolute;
-        background-color: var(--verde-claro);
-        box-shadow: 0 2px 5px var(--marinho);
-        min-width: 190px;
-        z-index: 1;
-        left: 1rem;
-        top: 100%;
-    }
-    .lista-vertical a{
-        color: var(--preto);
-        padding: 0.75rem 1rem;
-        text-decoration: none;
-        font-size: 2rem;
-        display: block;
-        text-align: center;
-    }
-    .lista-vertical a:hover{
-        background-color: var(--azul-claro);
-    }
-    #menu-toggle:checked ~ .lista-vertical{
-        display: block;
-    }
-    #menu-toggle:checked + .botao-disciplinas{
-        background-color: var(--preto);
-    }
+    
     .foto-materia{
         width: 35%;
     }
